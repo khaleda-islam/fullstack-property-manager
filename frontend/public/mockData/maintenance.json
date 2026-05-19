@@ -1,0 +1,26 @@
+[
+  {
+    "id": "req-101",
+    "propertyId": "prop-001",
+    "issueTitle": "Leaking Faucet",
+    "description": "The bathroom faucet drips constantly.",
+    "priority": "Low",
+    "status": "Completed",
+    "photos": [
+      "https://fake-image-link.com/photo1.jpg"
+    ],
+    "assignedContractorId": "fake-006",
+    "dateResolved": "2026-03-16T17:00:00Z"
+  },
+  {
+    "id": "req-102",
+    "propertyId": "prop-002",
+    "issueTitle": "Heater Broken",
+    "description": "No heat coming from the vents in the living room.",
+    "priority": "High",
+    "status": "In Progress",
+    "photos": [],
+    "assignedContractorId": "fake-004",
+    "dateResolved": null
+  }
+]

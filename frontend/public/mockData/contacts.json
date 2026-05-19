@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "role": "resident",
+    "auth0Id": "fake-001",
+    "picture": "https://placehold.co/40x40/FF6B6B/ffffff?text=AJ",
+    "isOnline": true,
+    "lastMessage": {
+      "text": "Hi, is the plumber coming today?",
+      "sentAt": "2026-03-18T09:30:00Z",
+      "senderName": "Alice Johnson"
+    },
+    "unread": 2
+  },
+  {
+    "id": 2,
+    "name": "Bob Martinez",
+    "role": "resident",
+    "auth0Id": "fake-002",
+    "picture": "https://placehold.co/40x40/FF9F43/ffffff?text=BM",
+    "isOnline": false,
+    "lastMessage": {
+      "text": "Thank you for fixing the heater!",
+      "sentAt": "2026-03-17T15:00:00Z",
+      "senderName": "Bob Martinez"
+    },
+    "unread": 0
+  },
+  {
+    "id": 3,
+    "name": "Carol White",
+    "role": "resident",
+    "auth0Id": "fake-003",
+    "picture": "https://placehold.co/40x40/FECA57/333333?text=CW",
+    "isOnline": true,
+    "lastMessage": {
+      "text": "You: Will check it tomorrow.",
+      "sentAt": "2026-03-17T11:20:00Z",
+      "senderName": "You"
+    },
+    "unread": 0
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "role": "contractor",
+    "auth0Id": "fake-004",
+    "picture": "https://placehold.co/40x40/48DBFB/333333?text=DK",
+    "isOnline": true,
+    "lastMessage": {
+      "text": "I can be there by 2pm.",
+      "sentAt": "2026-03-18T08:00:00Z",
+      "senderName": "David Kim"
+    },
+    "unread": 1
+  },
+  {
+    "id": 5,
+    "name": "Emma Davis",
+    "role": "resident",
+    "auth0Id": "fake-005",
+    "picture": "https://placehold.co/40x40/FF9FF3/333333?text=ED",
+    "isOnline": false,
+    "lastMessage": null,
+    "unread": 0
+  },
+  {
+    "id": 6,
+    "name": "Frank Lee",
+    "role": "contractor",
+    "auth0Id": "fake-006",
+    "picture": "https://placehold.co/40x40/54A0FF/ffffff?text=FL",
+    "isOnline": false,
+    "lastMessage": {
+      "text": "Job done. Invoice sent.",
+      "sentAt": "2026-03-16T17:00:00Z",
+      "senderName": "Frank Lee"
+    },
+    "unread": 0
+  }
+]

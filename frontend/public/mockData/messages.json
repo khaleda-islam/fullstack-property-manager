@@ -1,0 +1,77 @@
+{
+  "fake-001": [
+    {
+      "id": 1,
+      "senderId": "fake-001",
+      "senderName": "Alice Johnson",
+      "message": "Hi, the bathroom faucet is leaking again.",
+      "createdAt": "2026-03-18T09:00:00Z",
+      "read": true
+    },
+    {
+      "id": 2,
+      "senderId": "me",
+      "senderName": "You",
+      "message": "Thanks for letting me know, I'll send someone.",
+      "createdAt": "2026-03-18T09:10:00Z",
+      "read": true
+    }
+  ],
+  "fake-002": [
+    {
+      "id": 1,
+      "senderId": "me",
+      "senderName": "You",
+      "message": "The heater repair is complete!",
+      "createdAt": "2026-03-17T14:50:00Z",
+      "read": true
+    }
+  ],
+  "fake-003": [
+    {
+      "id": 1,
+      "senderId": "fake-003",
+      "senderName": "Carol White",
+      "message": "The window lock is still broken.",
+      "createdAt": "2026-03-17T11:00:00Z",
+      "read": true
+    },
+    {
+      "id": 2,
+      "senderId": "me",
+      "senderName": "You",
+      "message": "Will check it tomorrow.",
+      "createdAt": "2026-03-17T11:20:00Z",
+      "read": true
+    }
+  ],
+  "fake-004": [
+    {
+      "id": 1,
+      "senderId": "me",
+      "senderName": "You",
+      "message": "Can you come fix the elevator tomorrow?",
+      "createdAt": "2026-03-18T07:30:00Z",
+      "read": true
+    },
+    {
+      "id": 2,
+      "senderId": "fake-004",
+      "senderName": "David Kim",
+      "message": "I can be there by 2pm.",
+      "createdAt": "2026-03-18T08:00:00Z",
+      "read": false
+    }
+  ],
+  "fake-005": [],
+  "fake-006": [
+    {
+      "id": 1,
+      "senderId": "fake-006",
+      "senderName": "Frank Lee",
+      "message": "Job done. Invoice sent.",
+      "createdAt": "2026-03-16T17:00:00Z",
+      "read": true
+    }
+  ]
+}

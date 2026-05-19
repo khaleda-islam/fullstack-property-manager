@@ -1,0 +1,42 @@
+{
+  "features": [
+    { 
+      "icon": "bi-cash-coin", 
+      "title": "Track Rent Seamlessly", 
+      "desc": "Easily track rent payment status across multiple tenants in real time, completely eliminating the need for messy spreadsheets." 
+    },
+    { 
+      "icon": "bi-tools", 
+      "title": "Prioritize Maintenance", 
+      "desc": "Stop disorganized text complaints. Tenants submit tickets so you can prioritize urgent vs. non-urgent issues and quickly dispatch contractors." 
+    },
+    { 
+      "icon": "bi-folder-check", 
+      "title": "Centralize Contracts", 
+      "desc": "No more scattered physical files or lost emails. Store lease contracts securely in the cloud and never miss a renewal date again." 
+    }
+  ],
+  "roles": [
+    { 
+      "target": "For Landlords", 
+      "icon": "bi-building", 
+      "benefits": ["Manage 1-10 Properties", "Save 5-10 Hours Weekly", "One-Click Contractor Contact"] 
+    },
+    { 
+      "target": "For Residents", 
+      "icon": "bi-house-door", 
+      "benefits": ["Simple Rent Tracking", "Easy Issue Reporting", "Direct Landlord Messaging"] 
+    },
+    { 
+      "target": "For Contractors", 
+      "icon": "bi-wrench-adjustable", 
+      "benefits": ["Clear Issue Descriptions", "Direct Communication", "Streamlined Workflow"] 
+    }
+  ],
+  "docs": [
+    { "title": "Getting Started", "desc": "Set up your first property and invite tenants.", "icon": "bi-rocket" },
+    { "title": "Managing Leases", "desc": "How to upload and track contract dates.", "icon": "bi-file-earmark-pdf" },
+    { "title": "Maintenance Flow", "desc": "Routing tenant complaints to contractors.", "icon": "bi-clipboard-check" },
+    { "title": "Payment Tracking", "desc": "Monitoring rent status across your portfolio.", "icon": "bi-bank" }
+  ]
+}
