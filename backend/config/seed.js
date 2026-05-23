@@ -69,32 +69,24 @@ const seedData = {
     {
       landlordId: "seed|landlord1",
       name: "Sunset Apartments",
-      address: "100 Queen Street West",
-      city: "Toronto",
-      state: "ON",
-      postalCode: "M5H 2N2",
-      type: "Apartment",
-      photos: [
-        {
-          url: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800",
-          publicId: "sample1",
-        },
-      ],
+      location: "100 Queen Street West, Toronto, ON M5H 2N2",
+      units: 10,
+      description: "Modern apartment building in the heart of downtown Toronto with stunning city views.",
+      image: {
+        url: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800",
+        publicId: "sample1",
+      },
     },
     {
       landlordId: "seed|landlord1",
       name: "Downtown Condo Tower",
-      address: "200 King Street East",
-      city: "Toronto",
-      state: "ON",
-      postalCode: "M5A 1J1",
-      type: "Condo",
-      photos: [
-        {
-          url: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
-          publicId: "sample2",
-        },
-      ],
+      location: "200 King Street East, Toronto, ON M5A 1J1",
+      units: 15,
+      description: "Luxury condo tower with premium amenities and excellent transit access.",
+      image: {
+        url: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+        publicId: "sample2",
+      },
     },
   ],
 
